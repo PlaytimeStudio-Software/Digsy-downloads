@@ -12,11 +12,7 @@ These links always download the newest version:
 | Windows | [Digsy-Setup.exe](https://github.com/PlaytimeStudio-Software/Digsy-downloads/releases/latest/download/Digsy-Setup.exe) (installer) or [Digsy-portable.zip](https://github.com/PlaytimeStudio-Software/Digsy-downloads/releases/latest/download/Digsy-portable.zip) |
 | Mac | [Digsy-macOS.dmg](https://github.com/PlaytimeStudio-Software/Digsy-downloads/releases/latest/download/Digsy-macOS.dmg) |
 | Android | [Digsy-android.apk](https://github.com/PlaytimeStudio-Software/Digsy-downloads/releases/latest/download/Digsy-android.apk) |
-
-**Testers:** the Digsy Tester version installs next to the normal game with its own saves:
-[Windows](https://github.com/PlaytimeStudio-Software/Digsy-downloads/releases/latest/download/Digsy-tester-Setup.exe),
-[Mac](https://github.com/PlaytimeStudio-Software/Digsy-downloads/releases/latest/download/Digsy-tester-macOS.dmg),
-[Android](https://github.com/PlaytimeStudio-Software/Digsy-downloads/releases/latest/download/Digsy-tester-android.apk).
+| iPhone and iPad | Through Apple's TestFlight app, by invitation |
 
 A new version comes out most Sundays. What changed is on the [release page](https://github.com/PlaytimeStudio-Software/Digsy-downloads/releases/latest).
 
@@ -30,7 +26,13 @@ A new version comes out most Sundays. What changed is on the [release page](http
 
 Your worlds are saved on your device and are kept when you update.
 
+## Feedback and help
+
+Found a problem or have an idea? In the game, go to **Settings > Help > Feedback > Share**: a
+grown-up types three numbers, then your email app opens with a message to us and the game's log.
+Or email **support@playtime.studio**. More answers are on the [support page](SUPPORT.md).
+
 ---
 
-© Playtime Studio. All rights reserved. Free to download and play; please don't share or re-upload
+© Playtime Studio LLC. All rights reserved. Free to download and play; please don't share or re-upload
 the files.
